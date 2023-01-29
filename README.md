@@ -26,7 +26,7 @@ Repo links are listed below check and can get other details.
 # [findit](https://github.com/antinucleus/findit)
 
 ### Smart-contract Repo
-# [findit-solana-smart-contract](https://github.com/antinucleus/findit)
+# [findit-solana-smart-contract](https://github.com/antinucleus/findit-solana-smart-contract)
 
 ## Demo From Game
 
